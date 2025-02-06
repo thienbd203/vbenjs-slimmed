@@ -118,5 +118,8 @@
       "canvas",
       "node-gyp"
     ]
+  },
+  "dependencies": {
+    "@ast-grep/napi-darwin-arm64": "^0.34.3"
   }
 }

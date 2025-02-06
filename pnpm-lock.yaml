@@ -483,6 +483,10 @@ overrides:
 importers:
 
   .:
+    dependencies:
+      '@ast-grep/napi-darwin-arm64':
+        specifier: ^0.34.3
+        version: 0.34.3
     devDependencies:
       '@changesets/changelog-github':
         specifier: 'catalog:'
@@ -1632,6 +1636,12 @@ packages:
     engines: {node: '>=10'}
     peerDependencies:
       ajv: '>=8'
+
+  '@ast-grep/napi-darwin-arm64@0.34.3':
+    resolution: {integrity: sha512-0a8dS+mOP5TYRX3YDiejL1WXWoWga3wpMYZGSs6Ni+SlH1WEO8zyUHe/1z6jNWH8VMHfH9FSCy6+YaPTpiurCA==}
+    engines: {node: '>= 10'}
+    cpu: [arm64]
+    os: [darwin]
 
   '@ast-grep/napi@0.34.4':
     resolution: {integrity: sha512-QesKWYy+DXiRQll5Wi2hDRPQ1fOWp2gdF1TFyvuZQZoPu2kVVTOOGX0ajpMm4D2mS9N5n0NB4fsG14ukGOnAlg==}
@@ -9571,6 +9581,8 @@ snapshots:
       json-schema: 0.4.0
       jsonpointer: 5.0.1
       leven: 3.1.0
+
+  '@ast-grep/napi-darwin-arm64@0.34.3': {}
 
   '@ast-grep/napi@0.34.4': {}
 
