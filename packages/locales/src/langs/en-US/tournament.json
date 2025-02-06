@@ -1,0 +1,62 @@
+{
+  "routes": {
+    "title": "Tournament",
+    "description": "Tournament Management",
+    "Tournament": "Tournament"
+  },
+  "name": "Tournament Name",
+  "status": {
+    "title": "Status",
+    "ongoing": "Ongoing",
+    "pending": "Pending",
+    "finished": "Finished",
+    "cancelled": "Cancelled"
+  },
+  "is_feature": "Featured",
+  "startDate": {
+    "title": "Start Date",
+    "placeholder": "Select start date"
+  },
+  "endDate": {
+    "title": "End Date",
+    "placeholder": "Select end date"
+  },
+  "date_start": "Start Date",
+  "date_end": "End Date",
+  "reg_start_date": "Registration Start Date",
+  "reg_end_date": "Registration End Date",
+  "contact_phone": "Contact Phone",
+  "contact_address": "Contact Address",
+  "rule": "Rules",
+  "description": "Description",
+  "level": "Level",
+  "players": {
+    "title": "Players",
+    "placeholder": "Enter number of players"
+  },
+  "awardTotal": {
+    "title": "Award Total",
+    "placeholder": "Enter award total"
+  },
+  "award_total": "Award Total",
+  "num_player": "Number of Players",
+  "organizier": "Organizer",
+  "actions": {
+    "title": "Actions",
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "list": {
+    "title": "Tournament List",
+    "empty": "No tournaments found"
+  },
+  "search": {
+    "placeholder": "Search tournaments..."
+  },
+  "add": "Add Tournament",
+  "create": "Create Tournament",
+  "edit": "Edit Tournament"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Tên giải đấu",
+  "status": {
+    "title": "Trạng thái",
+    "ongoing": "Đang diễn ra",
+    "pending": "Chờ xử lý",
+    "finished": "Đã kết thúc",
+    "cancelled": "Đã hủy"
+  },
+  "is_feature": "Nổi bật",
+  "startDate": {
+    "title": "Ngày bắt đầu",
+    "placeholder": "Chọn ngày bắt đầu"
+  },
+  "endDate": {
+    "title": "Ngày kết thúc",
+    "placeholder": "Chọn ngày kết thúc"
+  },
+  "date_start": "Ngày bắt đầu",
+  "date_end": "Ngày kết thúc",
+  "reg_start_date": "Ngày bắt đầu đăng ký",
+  "reg_end_date": "Ngày kết thúc đăng ký",
+  "contact_phone": "Số điện thoại liên hệ",
+  "contact_address": "Địa chỉ liên hệ",
+  "rule": "Luật chơi",
+  "description": "Mô tả",
+  "level": "Cấp độ",
+  "players": {
+    "title": "Số người chơi",
+    "placeholder": "Nhập số người chơi"
+  },
+  "awardTotal": {
+    "title": "Tổng giải thưởng",
+    "placeholder": "Nhập tổng giải thưởng"
+  },
+  "award_total": "Tổng giải thưởng",
+  "num_player": "Số lượng người chơi",
+  "organizier": "Ban tổ chức",
+  "actions": {
+    "title": "Thao tác",
+    "view": "Xem",
+    "edit": "Sửa",
+    "delete": "Xóa",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "add": "Thêm giải đấu"
+  },
+  "list": {
+    "title": "Danh sách giải đấu",
+    "empty": "Không tìm thấy giải đấu nào"
+  },
+  "search": {
+    "placeholder": "Tìm kiếm giải đấu..."
+  },
+  "add": "Thêm giải đấu",
+  "create": "Tạo giải đấu",
+  "edit": "Chỉnh sửa giải đấu",
+  "routes": {
+    "title": "Giải đấu",
+    "description": "Quản lý giải đấu",
+    "Tournament": "Giải đấu"
+  }
+}
